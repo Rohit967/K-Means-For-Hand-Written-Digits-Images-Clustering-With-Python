@@ -1,11 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Sep 20 00:01:30 2018
-
-@author name: Ragavander Rohit Walthaty
-          ID: 999992844
-"""
 
 # =============================================================================
 # Importing packages
